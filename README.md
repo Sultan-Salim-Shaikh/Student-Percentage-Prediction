@@ -19,7 +19,7 @@ Using Supervised Machine Learning predict the percentage of marks that a student
 ## Roadmap for Project 🛣
 ◾ This is a simple linear regression task as it involves just two variables.The steps involved are:
 
-1.Loading/Importing the required libraries and Reading the data set and checking not null values
+1.Loading/Importing the required libraries and Reading the data set
 
 2.Plotting the Data 
 
@@ -31,11 +31,11 @@ Using Supervised Machine Learning predict the percentage of marks that a student
 
 6.Visualizing the Model
 
-7.Making Predictions
+7.Making Prediction
 
 8.Evaluating the model using the given dataset
 
-9.Evaluate the model for error
+9.Evaluate the model for errors
 
 10.Conclusion
 
