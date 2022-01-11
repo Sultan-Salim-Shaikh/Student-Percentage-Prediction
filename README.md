@@ -35,7 +35,7 @@ Using Supervised Machine Learning predict the percentage of marks that a student
 
 8.Evaluating the model using the given dataset
 
-9.Evaluate the model for errors
+9.Evaluating the model for errors
 
 10.Conclusion
 
